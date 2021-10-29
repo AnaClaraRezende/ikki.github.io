@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    background-color: rgba(51, 51, 117, 0.445);
+}
+
+.container {
+	max-width: 1920px;
+	width: 100%;
+}
+
+#main-banner {
+	background: url('/imgs/banner.jpg') no-repeat;
+	background-size: cover;
+	background-position: 0 55%;
+	position: relative;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+.altura{
+    height: 750px;
+    
+    margin-top: 0;
+}
+p, h1,h2, h3{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+
+h6{
+    color: rgb(16, 16, 59);
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 150px;
+}
+h5{
+    color: rgb(16, 16, 59);
+    font-size: 20px;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    
+}
+h4{
+    color: rgb(16, 16, 59);
+    font-size: 40px;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+}
+h1{
+    font-size: 0px;
+}
+
+p{
+    font-size: 80px;
+    margin-top: -160px;
+}
+h2{
+    font-size: 100px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+.img1{
+    height: 300px;
+    margin-left: 480px;
+}
